@@ -1,1 +1,14 @@
-The AutoEIT Engine is an automated research-focused evaluation tool designed to provide objective, semantic, and linguistic analysis of written content. By integrating deep learning frameworks such as sentence-transformers for semantic similarity assessment and language-tool-python for mechanical accuracy, this engine delivers high-precision scoring for academic and educational applications. The project is built for reproducibility and scalability, providing a structured, standard-compliant framework that allows researchers to analyze student text with consistent, data-driven results.
+AutoEIT Engine
+AutoEIT (Automated Evaluation & Intelligence Tool) is a research-grade engine designed to provide objective, semantic, and linguistic analysis of academic and technical content. By leveraging state-of-the-art NLP models, the engine provides high-precision scoring to assist in objective text evaluation.
+
+🚀 Key Features
+Semantic Analysis: Uses sentence-transformers to assess conceptual alignment and thematic similarity.
+Linguistic Accuracy: Integrated language-tool-python for automated mechanical error detection.
+Reproducible Research: Fully containerized dependency management via requirements.txt to ensure consistent performance across research workstations.
+Modular Design: Built for extensibility, allowing researchers to plug in custom scoring algorithms or alternative LLM backends.
+
+🛠 Technical Stack
+Language: Python 3.10+
+NLP Frameworks: sentence-transformers, language-tool-python, scikit-learn
+Workflow: Git/GitHub for version control and collaborative documentation.
+
